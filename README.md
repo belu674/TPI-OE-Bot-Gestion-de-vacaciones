@@ -22,6 +22,10 @@ El programa está diseñado como una **máquina de estados**, ofreciendo menús 
 - **Guardar solicitudes**: persiste los cambios en el estado de las solicitudes.
 - **Máquina de estados**: controla la interacción del bot mediante menús de login, empleado y organización.
 
+## 📐 Diagrama de Procesos BPMN
+
+<img width="2898" height="1414" alt="BPMN_TPI" src="https://github.com/user-attachments/assets/e65c9258-e340-4874-8572-6e2b93149532" />
+
 ## 📂 Estructura de Archivos
 
 ```bash
