@@ -1,8 +1,8 @@
 import csv
 import os
 
-ARCH_EMPLEADOS = "empleados.csv"
-ARCH_SOLICITUDES = "solicitudes.csv"
+ARCH_EMPLEADOS = "datos/empleados.csv"
+ARCH_SOLICITUDES = "datos/solicitudes.csv"
 
 # =====================================================================
 # FUNCIONES DE PERSISTENCIA (BASE DE DATOS EN EXCEL/CSV)
